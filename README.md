@@ -2,9 +2,8 @@
 
 $$
 \begin{aligned}
-&\text{Sei } G = \text{Geheimnis},\quad W = \text{Wahrheit},\quad P = \text{Passwort}.\\[1ex]
-&\text{Dann gilt: } G = P(W)\\[1ex]
-&\text{Code} \Rightarrow \text{Ausdruck}\quad (\text{anstelle von Worten})\\[1ex]
-&\text{Weitere Daten} = \varnothing
+\textbf{Geheimnis} &\equiv \text{Passwort der Wahrheit} \\[1ex]
+\text{Code} &\rightarrow \text{Sprache der Stille} \\[1ex]
+\text{Weitere Daten} &= \varnothing
 \end{aligned}
 $$
